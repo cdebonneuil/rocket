@@ -5,4 +5,7 @@ contract rocket {
   function landing {
     uint time = 200 sec;
   }
+  function takeoff {
+    
+  }
 }
